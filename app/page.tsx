@@ -1,5 +1,5 @@
 import React from 'react';
-import ImageCarousel from './game/page';
+import ImageCarousel from './game';
 import Image from 'next/image';
 import Logo from '../public/images/aion-logo02-min.png'
 
